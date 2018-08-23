@@ -1,0 +1,32 @@
+
+.background {
+  position: fixed;
+  
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 130px;
+}
+
+h1 {
+  text-align: center
+}
+
+body {
+  background-color: 2D2121
+}
+
+.images {
+  border-radius: 30%;
+}
+
+#scissors {
+  width: 20%;
+}
+
+#rock {
+  width: 17%;
+}
